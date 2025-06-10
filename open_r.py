@@ -31,7 +31,7 @@ class BurpExtender(IBurpExtender, IScannerCheck):
             "originUrl", "origin", "Url", "desturl", "u", "page", "u1", "action",
             "action_url", "Redirect", "sp_url", "service", "recurl", "uri",
             "allinurl", "q", "link", "src", "linkAddress", "location", "burl",
-            "request", "backurl", "RedirectUrl", "ReturnUrl", "click", "j", "tc"
+            "request", "backurl", "RedirectUrl", "ReturnUrl", "click", "j", "tc", "auto"
         ]
 
         found_params = []
