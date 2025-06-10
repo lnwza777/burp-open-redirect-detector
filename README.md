@@ -5,7 +5,6 @@ This is a **Burp Suite extension** that passively scans HTTP requests to identif
 ---
 
 ## 🔍 Features
-
 - Passive scanning (no requests are sent)
 - Detects suspicious redirect-related parameter names
 - Highlights parameters such as `url`, `redirect`, `return`, `goto`, etc.
